@@ -1,6 +1,10 @@
-# BookApp
+# Bookstor
+Social bookshelf and e-commerce for book lovers around the world, inspired by and forked from an old Microsoft hackathon project by @ntrappe-msft.
 
-### [🚀 Find the App Here](https://bookify-msft.netlify.app) 
+
+### [www.bookstor.xyz](https://www.bookstor.xyz) 
+
+### * Working on updating all below ASAP *
 
 ## Quick Commands
 
